@@ -29,7 +29,7 @@
 - **Server list** — ping test, fastest server detection, quick search
 - **Routing rules** — split traffic by domain/IP: proxy, direct, or block
 - **Ad blocking** — built-in filter lists to block ads and trackers
-- **URL schemes** — automate connect/disconnect and subscription import via `gorny://` links
+- **URL schemes** — automate connect/disconnect and subscription import
 - **System tray** — quick connect/disconnect and settings without opening the window
 - **Themes** — light and dark, with accent color and background customization
 - **Privacy** — session and account data encrypted locally, zero data collection
